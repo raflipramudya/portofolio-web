@@ -22,7 +22,7 @@ const jetbrainsMono = JetBrains_Mono({
 })
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://rafli-portfolio.vercel.app'),
+  metadataBase: new URL('https://portofolio-web-rafli12.vercel.app'),
   title: 'Rafli Pramudya Putranto — Software Developer',
   description:
     'Fresh graduate Informatika dengan fokus Software Development. Berpengalaman membangun aplikasi web dari perencanaan hingga deployment. Menguasai PHP, Laravel, MySQL, dan RESTful API.',
