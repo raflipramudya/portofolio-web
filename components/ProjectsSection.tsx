@@ -234,7 +234,6 @@ export default function ProjectsSection() {
           transition={{ duration: 0.5, delay: 0.6 }}
           className="text-center text-[var(--text-muted)] text-sm font-mono mt-8"
         >
-          {'// '}Link GitHub & Demo akan diperbarui setelah repositori dipublikasikan
         </motion.p>
       </div>
     </section>

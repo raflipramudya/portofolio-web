@@ -98,7 +98,7 @@ export default function ContactSection() {
                 {/* Download CV CTA */}
                 <motion.a
                   id="contact-download-cv"
-                  href="/cv/Rafli-Pramudya-Putranto-CV.pdf"
+                  href="/cv/Rafli_Pramudya_Putranto_CV.pdf"
                   download
                   whileHover={{ scale: 1.02, y: -1 }}
                   whileTap={{ scale: 0.98 }}

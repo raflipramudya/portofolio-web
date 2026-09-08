@@ -24,8 +24,8 @@ const educationList: EducationEntry[] = [
   },
   {
     id: 'sman2',
-    degree: 'SMA / SMAN 2 Balelan',
-    institution: 'SMAN 2 Balelan',
+    degree: 'SMA / SMAN 2 Babelan',
+    institution: 'SMAN 2 Babelan',
     period: '2019 – 2022',
   },
   {

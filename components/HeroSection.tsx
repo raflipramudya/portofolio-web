@@ -204,7 +204,7 @@ export default function HeroSection() {
               transition={{ duration: 0.6, delay: 0.2 }}
               className="font-mono text-lg sm:text-xl text-[var(--accent)] mb-4 font-medium"
             >
-              {'<'} Software Developer / Web Developer {' />'}
+              {'<'} Software Developer / Web Developer {' >'}
             </motion.p>
 
             {/* Location */}
@@ -255,7 +255,7 @@ export default function HeroSection() {
 
               <motion.a
                 id="hero-download-cv"
-                href="/cv/Rafli-Pramudya-Putranto-CV.pdf"
+                href="/cv/Rafli_Pramudya_Putranto_CV.pdf"
                 download
                 whileHover={{ scale: 1.03, y: -1 }}
                 whileTap={{ scale: 0.97 }}

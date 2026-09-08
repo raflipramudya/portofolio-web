@@ -105,7 +105,7 @@ export default function Navbar() {
               {/* Download CV */}
               <motion.a
                 id="navbar-download-cv"
-                href="/cv/Rafli-Pramudya-Putranto-CV.pdf"
+                href="/cv/Rafli_Pramudya_Putranto_CV.pdf"
                 download
                 whileHover={{ scale: 1.03 }}
                 whileTap={{ scale: 0.97 }}
@@ -162,7 +162,7 @@ export default function Navbar() {
               ))}
               <div className="mt-2 pt-2 border-t border-[var(--border-color)]">
                 <a
-                  href="/cv/Rafli-Pramudya-Putranto-CV.pdf"
+                  href="/cv/Rafli_Pramudya_Putranto_CV.pdf"
                   download
                   onClick={() => setIsMobileMenuOpen(false)}
                   className="flex items-center gap-2 px-4 py-3 rounded-lg
