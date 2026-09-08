@@ -116,7 +116,6 @@ export default function ContactSection() {
             {/* Tech stack note */}
             <div className="p-5 rounded-xl bg-[var(--bg-card)] border border-[var(--border-color)] font-mono text-xs text-[var(--text-muted)]">
               <span className="text-[var(--accent)]">// </span>
-              Portfolio ini dibangun dengan{' '}
               <span className="text-[var(--text-secondary)]">Next.js 14</span> +{' '}
               <span className="text-[var(--text-secondary)]">TypeScript</span> +{' '}
               <span className="text-[var(--text-secondary)]">Tailwind CSS</span> +{' '}
@@ -193,8 +192,6 @@ export default function ContactSection() {
           <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
             <div className="flex items-center gap-2 text-[var(--text-muted)] text-sm">
               <Code2 size={14} className="text-[var(--accent)]" />
-              <span>Dibangun dengan ❤️ oleh</span>
-              <span className="text-[var(--accent)] font-medium">Rafli Pramudya Putranto</span>
             </div>
             <span className="text-[var(--text-muted)] text-sm font-mono">
               © {new Date().getFullYear()} · All rights reserved

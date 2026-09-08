@@ -255,7 +255,7 @@ export default function HeroSection() {
 
               <motion.a
                 id="hero-download-cv"
-                href="/cv/Rafli_Pramudya_Putranto_CV.pdf"
+                href="public/cv/Rafli_Pramudya_Putranto_CV.pdf"
                 download
                 whileHover={{ scale: 1.03, y: -1 }}
                 whileTap={{ scale: 0.97 }}
