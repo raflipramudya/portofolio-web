@@ -22,7 +22,7 @@ const certifications: Certification[] = [
     description: 'Skema LSP Software Engineer — Sertifikasi kompetensi nasional di bidang rekayasa perangkat lunak.',
     icon: Award,
     accent: '#00d4aa',
-    year: '2025',
+    year: '2026',
   },
   {
     id: 'cisco',
@@ -40,7 +40,7 @@ const certifications: Certification[] = [
     description: 'Pelatihan persiapan sertifikasi LSP sebagai bekal uji kompetensi di bidang Software Engineering.',
     icon: BookOpen,
     accent: '#8b5cf6',
-    year: '2025',
+    year: '2026',
   },
 ]
 

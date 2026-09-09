@@ -29,9 +29,9 @@ const educationList: EducationEntry[] = [
     period: '2019 – 2022',
   },
   {
-    id: 'sman44',
-    degree: 'SMA / SMAN 44 Bekasi',
-    institution: 'SMAN 44 Bekasi',
+    id: 'smpn44',
+    degree: 'SMPN / SMPN 44 Bekasi',
+    institution: 'SMPN 44 Bekasi',
     period: '2016 – 2019',
   },
   {
